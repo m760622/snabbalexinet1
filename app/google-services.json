@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "719709411639",
+    "firebase_url": "https://snabbalexinet.firebaseio.com",
+    "project_id": "snabbalexinet",
+    "storage_bucket": "snabbalexinet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719709411639:android:1bff0f6d37c65be5",
+        "android_client_info": {
+          "package_name": "se.nmds.snabbalexinet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719709411639-6g6e6n6l35agg72kmfr4rctkljqn4g1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "se.nmds.snabbalexinet",
+            "certificate_hash": "4cd0170634fa97e6c8ac7e72d4d7b8080cc4ffea"
+          }
+        },
+        {
+          "client_id": "719709411639-7gqm07cveoh1p7s9fr2eaa9jq4t95sis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtxJTo_kQS6GYVXJAkJWCgIK7adtjTuW8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719709411639-7gqm07cveoh1p7s9fr2eaa9jq4t95sis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

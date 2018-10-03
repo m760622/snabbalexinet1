@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">القاموس العربي السويدي</string>
+    <string name="svenska">سويدي</string>
+    <string name="arabiska">عربي</string>
+    <string name="type">نوع</string>
+    <string name="saveBtnTxt">حفظ</string>
+    <string name="update">تعديل</string>
+    <string name="updateView">شاشة التعديل</string>
+    <string name="delete">حذف</string>
+    <string name="cancel">إلغاء</string>
+    <string name="svenskaField">أدخل حقل السويدي</string>
+    <string name="arabiskaField">أدخل حقل العربي</string>
+    <string name="typeField">أدخل حقل النوع</string>
+    <string name="send_to">send_to</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+</resources>

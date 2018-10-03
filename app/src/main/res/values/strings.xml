@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Snabbalexinet</string>
+    <string name="svenska">Svenska</string>
+    <string name="arabiska">Arabiska</string>
+    <string name="type">type</string>
+    <string name="saveBtnTxt">Save</string>
+    <string name="update">Update</string>
+    <string name="updateView">Update view</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="svenskaField">Enter Svenska field</string>
+    <string name="arabiskaField">Enter Arabiska field</string>
+    <string name="typeField">Enter Type field</string>
+    <string name="send_to">send_to</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+</resources>
